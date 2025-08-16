@@ -1,0 +1,18 @@
+export const MarkdownElementType = Object.freeze({
+    PARAGRAPH: 'paragraph',
+    HEADING: 'heading',
+    LIST_ITEM: 'list-item',
+    TASK_ITEM: 'task-item',
+    LIST_START: 'list-start',
+    LIST_END: 'list-end',
+    CODE: 'code',
+    HR: 'hr',
+    BLOCKQUOTE: 'blockquote',
+    IMAGE: 'image',
+    LINK_REF: 'link-ref',
+    FOOTNOTE_DEF: 'footnote-def',
+    TABLE: 'table',
+    HTML: 'html',
+    BREAK: 'break',
+    SPACE: 'space',
+}); 
