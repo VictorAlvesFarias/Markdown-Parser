@@ -5,10 +5,7 @@
   "type": "module",
   "main": "src/index.js",
   "exports": {
-    ".": "./src/index.js",
-    "./parser": "./src/parser/index.js",
-    "./builders": "./src/builders/index.js",
-    "./utils": "./src/utils/index.js"
+    ".": "./src/index.js"
   },
   "scripts": {
     "test": "vitest",
