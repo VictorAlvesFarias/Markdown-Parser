@@ -9,7 +9,8 @@
   },
   "scripts": {
     "test": "vitest",
-    "test:watch": "vitest --watch"
+    "test:watch": "vitest --watch",
+    "types": "index.d.ts"
   },
   "keywords": [
     "markdown",
