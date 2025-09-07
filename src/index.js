@@ -21,7 +21,7 @@ export { ListEndBuilder } from './builders/list-end-builder.js';
 export { MarkdownUtils } from './utils/markdown-utils.js'; 
 
 // Formatter
-export { MarkdownFormatter } from './formatter.js';
+export { MarkdownFormatter } from './utils/formatter.js';
 
 // Convenience API
 export function parseMarkdown(markdown, options = {}) {
